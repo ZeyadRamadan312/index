@@ -1,0 +1,3036 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 10000px;
+    
+}
+
+
+.head2{
+    position: relative ;
+    top: -30px;
+    padding: 20px;
+    background-color: rgb(12, 12, 12);
+    display: flex;
+    justify-content: space-between;
+    width: 1479px;
+}
+
+.right1{
+    display: flex;
+    margin-right: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.lift1{
+    font-size: 2rem;
+    color: #5cd2b9;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 200px;
+    top: 10px;
+
+
+
+
+}
+.hhh1{
+    color: white;
+    font-size: 0.5rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    top: -9px;
+    left: 45px;
+}
+.pp1{
+    position: relative;
+    right: -110px;
+    top: 40px;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;    
+    
+}
+.pp2{
+   
+    position: relative;
+    right: -140px;
+    top: 40px;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;    
+}
+.pp3{
+   
+    position: relative;
+    right: -170px;
+    top: 40px;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;    
+}
+.pp4{
+  
+    position: relative;
+    right: -200px;
+    top: 40px;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;    
+}
+.pp5{
+  
+    position: relative;
+    right: -230px;
+    top: 40px;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;    
+}
+.pp6{
+ 
+    position: relative;
+    right: -270px;
+    top: 40px;
+    
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;    
+}
+.ico1{
+    position: relative;
+    right: 150px;
+    top: 42px;
+    
+
+}
+
+.midlle2{
+    
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 700px;
+    
+    
+    
+    color: rgba(255, 255, 255, 0.873);
+    position: relative;
+    top: -30px;
+    
+    
+    
+    background: linear-gradient(to right,rgb(10, 10, 10),rgb(10, 10, 10),rgb(10, 10, 10),#02100c,#102f28);
+
+
+
+}
+.mii2{
+    
+    position: relative;
+    top: -113px;
+    right: -230px;
+    
+}
+.mi1{
+    color: #5cd2b9;
+    position: absolute;
+    top: 120px;
+    left: 140px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;    
+font-size: 0.9em;
+}
+.mi2{
+    position: absolute;
+    top: 140px;
+    left: 140px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4em;
+    
+
+} 
+.mi3{
+    color: #5cd2b9;
+    position: absolute;
+    top: 140px;
+    left: 380px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4em;
+
+    
+
+} 
+.mi4{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4em;
+
+}
+.mi5{
+    color: #5cd2b9be;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+
+    
+
+} 
+.mi6{
+    position: absolute;
+    top: 300px;
+    left: 150px;
+    color: #ffffff98;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;    
+    font-size: 0.8em;
+
+
+}
+.mi7{
+    position: absolute;
+    top: 330px;
+    left: 150px;
+    color: #ffffff98;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;    
+    font-size: 0.8em;
+
+
+
+
+}
+.mi8{
+    position: absolute;
+    top: 425px;
+    left: 220px;
+   
+    
+
+}
+.mi9{
+    position: absolute;
+    top: 435px;
+    left: 305px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+}
+.mi10{
+    position: absolute;
+    top: 460px;
+    left: 300px;
+    color: rgba(252, 252, 252, 0.129);
+    
+    
+
+}
+.mi11{
+    color: #5cd2b9;
+    position: absolute;
+    top: 500px;
+    left: 300px;
+    font-family:'Courier New', Courier, monospace  ;
+    font-size: 0.7em;
+
+    
+
+}
+
+
+
+.midlle3{
+    width: 100%;
+
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: rgba(255, 255, 255, 0.873);
+    height: 470px;
+    position: relative;
+    top: -40px;
+    
+    
+
+}
+
+.mg1{
+    color: #5cd2b9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+    position: relative;
+    top: 50px;
+
+
+}
+
+.mg2{
+    position: relative;
+    top: 55px;
+    font-size: 3em; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+
+    
+}
+
+.mg3{
+    color: #5cd2b9;
+    position: relative;
+    top: -5px;
+    left: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em; 
+
+    
+}
+.mg4{
+    color: #5cd2b9;
+    position: relative;
+
+  
+
+    
+}
+.mg5{
+    color: rgba(183, 180, 180, 0.495);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    font-size: 0.8em;
+    position: relative;
+    top: 30px;
+
+    
+}
+.mg6{
+    color: rgba(183, 180, 180, 0.495);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+    position: relative;
+    top: 40px;
+    
+
+    
+}
+.mg7{
+    color: rgba(183, 180, 180, 0.495);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+    position: relative;
+    top: 80px;
+    
+
+    
+}
+.mg8{
+    color: rgba(183, 180, 180, 0.495);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+    position: relative;
+    top: 90px;
+    
+}
+.mg9{
+    background-color: #5cd2b9;
+    color: white;
+    position: relative;
+    top: 150px;
+    padding: 10px;
+    border: none;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+
+.midlle3{
+    width: 100%;
+
+    color: rgba(255, 255, 255, 0.873);
+}
+.mg10{
+    margin-top: 10px;
+    
+    
+}
+.mg11{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+
+    
+    
+    
+}
+.mg12{
+    color: rgba(183, 180, 180, 0.495);
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+
+
+    
+}
+.mg13{
+    margin-top: 10px;
+
+    
+}
+.mg14{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+
+    
+}
+.mg15{
+    color: rgba(183, 180, 180, 0.495);
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+
+    
+}
+.mg16{
+    margin-top: 10px;
+
+    
+}
+.mg17{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+
+    
+}
+.mg18{
+    color: rgba(183, 180, 180, 0.495);
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+
+    
+}
+.mg19{
+    margin-top: 10px;
+
+    
+}
+.mg20{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+
+    
+}
+.mg21{
+    color: rgba(183, 180, 180, 0.495);
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+
+    
+}
+
+.mgg1{
+    background-color:#12121288 ;
+    position: relative;
+    right: 150px;
+    top: 50px;
+    width: 180px;
+    height: 160px;
+    text-align: center;
+    justify-content:center;
+
+}
+
+.mgg2{
+    background: linear-gradient(to bottom,black,#010504,#021510,#102f28);
+    position: relative;
+    top: -90px;
+    right: -40px;
+    width: 180px;
+    height: 160px;
+    text-align: center;
+
+
+
+
+}
+
+
+.mgg3{
+    background: linear-gradient(to bottom,black,#010504,#021510,#102f28);
+    width: 180px;
+    height: 160px;
+    text-align: center;
+    position: relative;
+    right: 150px;
+    top: -80px;
+
+
+
+}
+
+
+.mgg4{
+    background-color:#12121288  ;
+    width: 180px;
+    height: 160px;
+    text-align: center;
+    position: relative;
+    right: -40px;
+    top: -230px;
+
+
+
+
+}
+.midlle4{
+    width: 100%;
+
+    display: flex;
+    justify-content: space-around;
+    color: rgba(255, 255, 255, 0.873);
+    background-color: rgb(10, 10, 10);
+    height: 600px;
+    position: relative;
+    top: -40px;
+
+}
+.lg1{
+    color: #5cd2b9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    position: relative;
+    top: 80px;
+    left: -70px;
+
+
+
+}
+
+
+.lg2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    position: relative;
+    top: 120px;
+    
+    left: -70px;
+    color: white;
+  
+
+}
+
+
+
+.lg3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    position: relative;
+    
+    left: -70px;
+    color: white;
+    top: 110px;
+
+
+
+}
+
+
+
+.lg4{
+    color: #5cd2b9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    position: relative;
+    left: 100px;
+
+
+
+
+
+}
+
+
+
+
+.lg5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    position: relative;
+    
+    left: 310px;
+    color: white;
+    top: -60px;
+
+
+
+}
+
+
+
+
+.lg6{
+    color: #5cd2b9;
+    position: relative;
+    top: 120px;
+    left: -70px;
+
+
+
+}
+.lg7{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 1.2em;
+
+
+}
+
+.lg8{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 1.2em;
+
+
+
+}
+
+
+
+
+
+
+.li1{
+    position: relative;
+    top: 81px;
+    left: 100px;
+    
+}
+.lo11{
+    width: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+
+    position:relative ;
+    top: 150px;
+    left: -70px;
+}
+
+
+
+.lii8{
+    position: relative;
+    top: 10px;
+    left: -70px;
+
+
+
+}
+
+.we1{
+    position: relative;
+    top: -40px;
+}
+
+
+
+
+
+
+
+
+.lii11{
+    position: relative;
+    top: 10px;
+
+
+
+}
+
+
+
+
+
+
+
+.li44{
+    width: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+    position: relative;
+    top: 5px;
+
+
+}
+.li55{
+    width: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+    position: relative;
+    top: 5px;
+
+
+
+}
+.dis1{
+    display: flex;
+    position: relative;
+    top: 200px;
+}
+.we2{
+    position: relative;
+    left: 75px;
+    top: -40px;
+}
+.we3{
+    position: relative;
+    top: -150px;
+}
+
+
+
+
+
+
+
+
+
+
+.midlle5{
+    width: 100%;
+
+    position: relative;
+    top: -40px;
+    background-position: right center;    
+    background-size: cover;  
+    background:linear-gradient(to right,#102f28,rgba(0, 0, 0, 0.747)),url(1.jpg);
+    
+    height: 388px;
+    width: 100%;
+    color: whitesmoke;
+
+
+   
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    height: 388px;
+    align-items: center;
+
+
+
+}
+.bo1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+.bo2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.bo3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.bo4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.bbo1{
+    color: #5cd2b9;
+    font-size: 2.5em;
+    position: relative;
+    left: -10px;
+    top: 10px;
+
+
+}
+.bbo3{
+    color: #5cd2b9;
+    font-size: 2.5em;
+    position: relative;
+    top: 10px;
+
+}
+.bbo5{
+    color: #5cd2b9;
+    font-size: 2.5em;
+    position: relative;
+    top: 10px;
+
+}
+.bbo7{
+    color: #5cd2b9;
+    font-size: 2.5em;
+    position: relative;
+    left: 5px;
+    top: 10px;
+
+}
+.bbo2{
+    position: relative;
+    top: 10px;
+    left: -10px;
+
+}
+.bbo4{
+    position: relative;
+    top: 10px;
+    left: -20px;
+
+}
+.bbo6{
+    position: relative;
+    top: 10px;
+    left: -15px;
+
+}
+.bbo8{
+    position: relative;
+    top: 10px;
+    left: -15px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.midlle6{
+    width: 100%;
+
+    height: 700px;
+    background-color: black;
+    color: white;
+    position: relative;
+    top: -40px;
+}
+
+
+
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+    position: relative;
+
+
+
+}
+.pppic1{
+    position: relative;
+    left: 360px;
+    top: 70px;
+}
+
+.pk1{
+    position: relative;
+    left: -30px;
+}
+.pk3{
+    position: relative;
+    left: 35px;
+}
+.texx1{
+
+    color: #5cd2b9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.6em;
+    position: relative;
+    bottom: -110px;
+    right: -1px;
+
+
+}
+.texx2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    position: relative;
+    bottom: -130px;
+
+}
+.texx3{
+    color: #5cd2b9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    position: relative;
+    bottom: -70px;
+    left: 90px;
+
+
+
+}
+.texx4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    position: relative;
+    right: -250px;
+    bottom: -8px;
+
+
+}
+.texx5{
+    color: #5cd2b9;
+    position: relative;
+
+
+
+}
+.texx6{
+    width: 600px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+    color: #818483;
+    position: relative;
+    bottom: -40px;
+
+}
+.texx7{
+    color: rgba(255, 255, 255, 0.904);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+    position: relative;
+    left: 30px;
+    bottom: -62px;
+
+}
+.texx8{
+    color: rgba(255, 255, 255, 0.904);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+    position: relative;
+    left: 30px;
+    bottom: -78px;
+
+
+
+}
+.texx9{
+    position: relative;
+    top: 30px;
+}
+.texx10{
+    position: relative;
+    top: 60px;
+    left: -25px;
+
+}
+.ppiicc{
+    position: relative;
+    bottom: -80px;
+    left: -5px;
+}
+
+
+
+.midlle7{
+    width: 100%;
+
+    position: relative;
+    top: -40px;
+    height: 250px;
+    background-position: left center;    
+    background-size: cover;  
+    background:linear-gradient(to right,rgba(0, 0, 0, 0.804),#102f28),url(side-view-portrait-of-a-woman-with-make-up-CTUMAUJ.jpg);
+}
+.peca1 img{
+    width: 200px;
+    position: relative;
+    left: 250px;
+    top: 80px;
+
+
+}
+
+
+.midlle8{
+    width: 100%;
+
+    background-color: rgb(14, 14, 14);
+    height: 700px;
+    position: relative;
+    top: -40px;
+}
+.to{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+
+
+
+
+
+.too1{
+    color: #5cd2b9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+    position: relative;
+    left: 80px;
+    top: 40px;
+
+
+}
+.too2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    position: relative;
+    left: 80px;
+    top: 40px;
+    
+}
+.too3{
+    color: #5cd2b9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    position: relative;
+    left: 270px;
+    top: -20px;
+    
+}
+.too4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    position: relative;
+    left: 80px;
+    top: -35px;
+    
+}
+.too5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    position: relative;
+    left: 80px;
+    top: -50px;
+    
+}
+.too6{
+    position: relative;
+    top: 10px;
+    left:  80px;
+    
+}
+
+
+.too7{
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+    color: #818483;
+    position: relative;
+    top: 90px;
+    left: -55px;
+
+
+
+
+}
+.too8{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #e3e7e6;
+    position: relative;
+    top: 180px;
+    left: -30px;
+
+    
+}
+.too9{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #e3e7e6;
+    position: relative;
+    top: 187px;
+    left: -30px;
+
+
+    
+}
+.too10{
+    position: relative;
+    top: -120px;
+    left: -55px;
+    
+}
+.too11{
+    position: relative;
+    top: -90px;
+    left: -74px;
+
+    
+}
+.too12{
+    position: relative;
+    top: 250px;
+    left:  -90px;
+}
+
+
+.midlle9{
+    width: 100%;
+
+    background:linear-gradient(to right,rgba(17, 17, 17,17),rgb(17, 17, 17),rgba(0, 0, 0, 0.168)),url(Bgg111.jpg);
+    background-size: contain ;
+    background-position: right center; 
+    height: 316px;
+    position: relative;
+    top: -40px;
+    
+    
+}
+.p213{
+    width: 970px;
+}
+.hu1{
+    color: #5cd2b9;
+
+
+}
+.p214{
+    color: #5cd2b9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 0.8em;
+
+
+}
+.p215{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    color: white;
+
+}
+.p217{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.8em;
+    color: #818483;
+    position: relative;
+    top: 20px;
+    left: 450px;
+
+
+}
+.divvv123{
+    width: 1920px;
+    height: 316px;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 80px;
+    left: -150px;
+    
+
+}
+
+
+
+
+
+
+.midlle10{
+    width: 100%;
+
+    background:linear-gradient(to right,rgba(17, 17, 17,17),rgb(17, 17, 17),rgba(0, 0, 0, 0.164)),url(Bg-1.jpg);
+    background-size: contain ;
+    background-position: right center; 
+    height: 700px;
+    position: relative;
+    top: -40px;
+
+    
+    
+
+}
+
+.miid10{
+    display: flex;
+    justify-content: center;
+
+}
+.mike{
+    background-color: rgb(21, 21, 21);
+    width: 500px;
+    height: 240px;
+    position: relative;
+    left: -10px;
+    top: 60px;
+    display: flex;
+
+
+
+}
+.lexi{
+    background-color: rgb(21, 21, 21);
+    width: 500px;
+    height: 240px;
+    position: relative;
+    top: 120px;
+    left:  -10px;
+    display: flex;
+
+
+}
+.hanna{
+    background-color: rgb(21, 21, 21);
+    width: 500px;
+    height: 240px;
+    position: relative;
+    left: 10px;
+    top: 60px;
+    display: flex;
+
+
+
+}
+.kevin{
+    background-color: rgb(21, 21, 21);
+    width: 500px;
+    height: 240px;
+    position: relative;
+    top: 120px;
+    left:  10px;
+    display: flex;
+
+
+
+}
+
+
+.mikk1{
+    position: relative;
+    top: -30px;
+
+}
+.mik3{
+    color: rgba(255, 255, 255, 0.93);
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 10px;
+    top: 5px;
+
+
+}
+.mik4{
+    color: #5cd2b9;
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 10px;
+    top: 20px;
+
+
+}
+.mik5{
+    color: rgba(255, 255, 255, 0.537);
+    font-size: 0.9em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 240px;
+    position: relative;
+    left: 10px;
+    top: 60px;
+
+    
+}
+ 
+.mik7{
+    position: relative;
+    top:   90px;
+    left: 10px;
+    
+}
+.mik8{
+    position: relative;
+    top:   95px;
+    left: 20px;
+
+    
+}
+.mik9{
+    position: relative;
+    top:   90px;
+    left: 30px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.midlle11{
+    width: 100%;
+
+    background-color: black;
+    
+    height: 260px;
+    position: relative;
+    top: -40px;
+    
+    
+}
+.p2137{
+    width: 970px;
+}
+.hu16{
+    color: #5cd2b9;
+
+
+}
+.p2145{
+    color: #5cd2b9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 0.8em;
+
+
+}
+.p2155{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    color: white;
+
+}
+.p2177{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.8em;
+    color: #818483;
+    position: relative;
+    top: 20px;
+    left: 450px;
+
+
+}
+.divvv1234{
+    width: 1920px;
+    height: 316px;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 80px;
+    left: -190px;
+    
+
+}
+
+
+.midlle12{
+    width: 100%;
+
+
+    background-color: black;
+    height: 970px;
+    position: relative;
+    top: -40px;
+    
+}
+.midid1{
+    width: 1000px;
+    position: relative;
+    left: 320px;
+}
+
+
+
+    
+
+
+
+
+
+
+
+.midlle13{
+    width: 100%;
+
+    height: 548px;
+    background:linear-gradient(rgba(0, 0, 0, 0.526),rgba(0, 0, 0, 0.526)),url(adadad.jpg);
+    background-size: contain;
+    background-position: center;
+    position: relative;
+    top: -40px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.mg155{
+    color: #5cd2b9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+    position: relative;
+    top: -60px;
+
+
+}
+
+.mg222{
+    position: relative;
+    top: -50px;
+    font-size: 3em; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+
+    
+}
+
+
+.mg444{
+    color: #5cd2b9;
+    position: relative;
+    top: -60px;
+
+  
+
+    
+}
+.mg555{
+    color: rgb(205, 204, 204);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+
+    font-size: 0.7em;
+    position: relative;
+    top: -30px;
+    line-height: 2.5;
+
+
+
+}
+
+.mg999{
+    background-color: #5cd2b9;
+    color: white;
+    position: relative;
+    top: 0px;
+    padding: 10px;
+    border: none;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+.RE4{
+    color: #5cd2b9;
+}
+
+
+
+
+.right3{
+    background-color: rgba(17, 17, 17, 0.812);
+    width: 500px;
+    height: 250px;
+}
+
+.oop1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+    width: 420px;
+    color: rgb(205, 204, 204);
+    position: relative;
+    left: 40px;
+    top: 40px;
+    line-height: 1.8;
+
+
+
+
+}
+.ll4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: rgba(255, 255, 255, 0.953);
+    position: relative;
+    left: 80px;
+    top: 75px;
+
+
+}
+.ll5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.6em;
+    color: #5cd2b9;
+    position: relative;
+    left: 80px;
+    top: 80px;
+
+
+}
+.ll3{
+    border-radius:50%;
+    position: relative;
+    top: 120px;
+    left: 20px;
+}
+.ll6{
+    position: relative;
+    left:  430px;
+    top: 40px;
+}
+
+
+
+
+
+.midlle14{
+    width: 100%;
+
+    background-color: black;
+    
+    height: 260px;
+    position: relative;
+    top: -40px;
+    
+    
+}
+.p21372{
+    width: 970px;
+}
+.hu165{
+    color: #5cd2b9;
+
+
+}
+.p21454{
+    color: #5cd2b9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 0.8em;
+
+
+}
+.p21555{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 3em;
+    color: white;
+
+}
+.p21777{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.8em;
+    color: #818483;
+    position: relative;
+    top: 20px;
+    left: 450px;
+
+
+}
+.divvv12345{
+    width: 1920px;
+    height: 316px;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 80px;
+    left: -190px;
+    
+
+}
+
+
+
+
+.poi1{
+    color: #5cd2b9;
+}
+
+
+
+
+
+
+.midlle15{
+   display: flex;
+   justify-content: space-evenly;
+   color: white;
+   background-color: black;
+   position: relative;
+   top: -40px;
+   height: 600px;
+   width: 100%;
+
+
+
+
+
+
+}
+
+
+.ee2{
+    width: 350px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.9em;
+    color: #5cd2b9;
+
+
+
+    
+}
+.ee3{
+    width: 330px;
+    font-size: 0.7em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 2;
+    color: rgba(255, 255, 255, 0.851);
+    position: relative;
+    top: 10px;
+
+
+}
+.ee4{
+    color: rgba(255, 255, 255, 0.923);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.9em;
+    position: relative;
+    top: 53px;
+    left: 35px;
+
+    
+}
+.ee5{
+    color: rgba(255, 255, 255, 0.923);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.9em;
+    position: relative;
+    top: 35px;
+    left: 200px;
+
+
+
+    
+}
+.ee6{
+    position: relative;
+    top: 9px;
+
+    
+}
+.ee7{
+    position: relative;
+    top: 3px;
+    left: 135px;
+    
+}
+.m213{
+    position: relative;
+    top: -12px;
+}
+
+.ee2e{
+    width: 350px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.9em;
+    color: #5cd2b9;
+
+}
+
+
+.m2139{
+    position: relative;
+    top: 30px;
+    left: -291px;
+
+}
+.mmk1{
+    position: relative;
+    top: -10px;
+    left: 1px;
+}
+
+
+
+
+
+
+.midlle16{
+    height: 600px;
+    background-color: rgb(10, 10, 10);
+    background-image: url(bg-2.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    top: -40px;
+    width: 100%;
+    color: rgba(255, 255, 255, 0.968);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+
+
+.FORM1{
+    width: 500px;
+    color: #5cd2b9;
+
+}
+
+
+.fel1{
+    border-color: #5cd2b9;
+    height: 460px;
+    position: relative;
+    top: -40px;
+}
+
+.in1{
+    width: 460px;
+    height: 25px;
+    background-color: rgba(20, 20, 20, 0.855);
+    color: #5cd2b978;
+    border-color: #5cd2b9;
+    border-style: groove;
+    justify-content: center;
+    position: relative;
+    left: 15px;
+    top: 10px;
+
+
+
+}
+
+
+
+
+.in2{
+    width: 460px;
+    height: 25px;
+    background-color: rgba(20, 20, 20, 0.855);
+    color: #5cd2b978;
+    border-color: #5cd2b9;
+    border-style: groove;
+    position: relative;
+    left: 15px;
+    top: 10px;
+
+
+
+
+
+
+    
+}
+
+
+
+.in3{
+    width: 460px;
+    height: 120px;
+    background-color: rgba(20, 20, 20, 0.84);
+
+    color: #5cd2b978;
+    border-color: #5cd2b9;
+    border-style: groove;
+    position: relative;
+    left: 15px;    
+    top: 10px;
+
+
+
+
+
+    
+}
+.in4{
+    background-color: #5cd2b9;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 9px;
+    width: 440px;
+    border: none;
+    position: relative;
+    left: 15px;
+    top: 10px;
+}
+.kk1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 0.9em;
+    position: relative;
+    left: 15px;
+    top: 9px;
+
+
+}
+.kk2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 0.9em;
+    position: relative;
+    left: 15px;
+    top: 9px;
+
+    
+}
+.kk3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 0.9em;
+    position: relative;
+    left: 15px;
+    top: 9px;
+
+    
+}
+
+
+
+.mg155198{
+    color: #5cd2b9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+    position: relative;
+    top: -60px;
+
+
+}
+
+.mg22217{
+    position: relative;
+    top: -50px;
+    font-size: 3em; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+
+    
+}
+
+
+.mg44418{
+    color: #5cd2b9;
+    position: relative;
+    top: -60px;
+
+  
+
+    
+}
+.mg55519{
+    color: rgb(205, 204, 204);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+
+    font-size: 0.7em;
+    position: relative;
+    top: -30px;
+    line-height: 2.5;
+
+
+
+}
+
+
+.right8{
+    position: relative;
+    left: 10px;
+}
+
+.iooi1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 1.5em;
+
+
+}
+.iooi2{
+    color: #5cd2b9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+
+
+}
+.iooi3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 1.5em;
+
+}
+.iooi4{
+    color: #5cd2b9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+
+
+}
+.iooi5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 1.5em;
+
+}
+
+
+.iooi6{
+    color: #5cd2b9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+
+
+}
+
+.rel12{
+    position: relative;
+    left: 60px;
+}
+
+
+.iooi7{
+    position: relative;
+    left: -55px;
+    top: -170px;
+
+}
+.iooi8{
+    position: relative;
+    left: -95px;
+    top: -102px;
+    
+}
+.iooi9{
+    position: relative;
+    left: -139px;
+    top: -41px;
+}
+
+
+
+.midlle17{
+    background-image: radial-gradient(#0c211c 5%,#0a1715 20%, #040807,black 60% );
+    
+
+color: rgba(255, 255, 255, 0.955);
+    height: 500px;
+    position: relative;
+    top: -40px;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    
+
+
+
+}
+
+.hlh1{
+    display: flex;
+    width: 700px;
+    justify-content: space-between;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.4em;
+    color: #5cd2b9;
+    position: relative;
+    top: -40px;
+
+}
+
+.lio12{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9em;
+    width: 500px;
+    position: relative;
+    left: 110px;
+    color: rgba(255, 255, 255, 0.69);
+
+    
+
+
+}
+.lio13{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 90px;
+
+    
+
+
+}
+
+.jl2{
+    font-size: 3.5em; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: #5cd2b9;
+    letter-spacing: 2px;
+    position: relative;
+    left:  240px;
+    top: -100px;
+
+
+
+   
+
+
+}
+.jl3{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.5em;
+    letter-spacing: 5px;
+    position: relative;
+    left:  265px;
+    top: -110px;
+
+}
+
+.kl1{
+    position: relative;
+    top: 50px;
+    left: 200px;
+
+}
+.kl2{
+    position: relative;
+    top: 53px;
+    left: 250px;
+
+}
+.kl3{
+    position: relative;
+    top: 50px;
+    left: 300px;
+
+}
+.kl4{
+    position: relative;
+    top: 50px;
+    left: 350px;
+
+
+}
+
+
+
+@media screen and (min-width: 400px) and (max-width:767px)  {
+    .right1{
+        display: none;
+
+    }
+    .lift1{
+        position: relative;
+        left: 100px;
+
+
+    }
+    .ico1{
+        display: none;
+    }
+    .mii1{
+        font-size: 80%;
+        position: relative;
+        left: -40px;
+        top: -50px;
+        
+
+    }
+
+    .midlle3{
+        height: 700px;
+        display: block;
+    }
+
+    
+
+
+
+    .mi2{
+        width: 200px;
+    }
+    .lklk1{
+        opacity: 50%;
+    }
+
+    .mi3{
+        position: absolute;
+        left: 340px;
+    }
+    .mi6{
+        display: none;
+    }
+    .mi7{
+        display: none;
+    }
+    
+    .mg5{
+        display: none;
+
+    }
+    .mg6{
+        display: none;
+
+
+    }
+    .mg7{
+        display: none;
+
+    }
+    .mg8{
+        display: none;
+
+    }
+    .mgg1{
+        width: 40%;
+        font-size: 100%;
+        position: relative;
+        top: -240px;
+        left: 50px;
+    }
+    .mmgg1{
+        position: relative;
+        left: 50px;
+    }
+    .mg9{
+        position: relative;
+        top: 20px;
+        padding-right: 50px;
+       
+
+    }
+
+   .mmgg2{
+    position: relative;
+    top: 300px;
+   }
+    .mgg2{
+        width: 40%;
+        font-size: 100%;
+        position: relative;
+        top: -400px;
+        left: 270px;
+
+    }
+    .mgg3{
+        width: 40%;
+        font-size: 100%;
+        position: relative;
+        top: -380px;
+        left: 50px;
+
+    }
+    .mgg4{
+        width: 40%;
+        font-size: 100%;
+        position: relative;
+        top: -540px;
+        left: 270px;
+
+    }
+    .lg5{
+        display: none;
+    }
+    
+    .lll{
+        opacity: 20%;
+        position: relative;
+        left: -50px;
+    }
+    .li2{
+        position: absolute;
+        
+        left: 80px;
+    }
+    .lo11{
+        width: 400px;
+        position: relative;
+        top: 200px;
+    }
+    .mod2{
+        position: relative;
+        left: 10px;
+        top: 40px;
+    }
+    .mod1{
+        position: relative;
+        left: -10px;
+        top: 40px;
+
+
+    }
+
+
+    .midlle6{
+        width: auto;
+        height: 900px;
+        
+    }
+    .texx10{
+        display: none;
+    }
+    .texx9{
+        display: none;
+    }
+    .texx8{
+        display: none;
+    }
+    .hfh{
+        position: relative;
+        top: 400px;
+
+    }
+    .textt{
+        position: relative;
+        left: 60px;
+    }
+    .texx7{
+        display: none;
+    }
+    .pppic1{
+
+        left: 70px;
+        top: 150px;
+    }
+    .ppiicc{
+        width: 200px;
+        position: relative;
+        left: -100px;
+        top: 125px;
+
+    }
+    .pk1{
+        width: 200px;
+        position: relative;
+        left: -40px;
+        top: -70px;
+
+    }
+    .pk2{
+        width: 200px;
+        position: relative;
+        left: -10px;
+        top: -70px;
+
+        
+    }
+    .pk3{
+        width: 200px;
+        width: 200px;
+        position: relative;
+        left: -40px;
+        top: -70px;
+
+        
+    }
+    .midlle8{
+        height: 650px;
+    }
+    .hfh{
+        width: 200px;
+    }
+    .texx6{
+        width: 400px;
+    }
+    .peca1 img{
+        width: 140px;
+        left: 20px;
+        top: 90px;
+    }
+
+    .to1{
+        position: relative;
+        left: 80px;
+    }
+    .too7{
+        width: 500px;
+        
+    }
+    .too6{
+        width: 300px;
+        top: 180px;
+    }
+    .too12{
+        width: 300px;
+        top:  420px;
+        left: 60px;
+
+
+    }
+    .too7{
+        top: 400px;
+        left: -220px;
+
+
+
+    }
+    .too8{
+        top: 270px;
+        left: 250px;
+        display: none;
+
+    }
+    .too9{
+        top: 280px;
+        left: 250px;
+        display: none;
+
+    }
+    .too10{
+        top: 80px;
+        left: 220px;
+        display: none;
+
+        
+
+    }
+    .too11{
+        top: 112px;
+        left: 200px;
+        display: none;
+
+        
+
+    }
+    .too12{
+        width: 250px;
+        position: relative;
+        top: 140px;
+    }
+    .too7{
+        position: relative;
+        left: -140px;
+        top: 350px;
+    }
+    .too6{
+        position: relative;
+        top: 110px;
+    }
+    
+    .midlle9{
+        background-size: cover;
+    }
+    .midlle10{
+        background-size: cover;
+        height: 700px;
+    }
+
+    .divvv123{
+        left: -680px;
+        font-size: 70%;
+    }
+    .p217{
+        width: 400px;
+        
+    }
+    .p213{
+        position: relative;
+        left: 310px;
+    }
+
+
+    .lift2{
+        font-size: 60%;
+        position: relative;
+        left: 90px;
+        z-index: 5;
+    }
+    .mik4{
+        display: none;
+    }
+    .mik5{
+        display: none;
+    }
+    .mik7{
+        position: absolute;
+        top: 60px;
+        left: 40px;
+        
+        
+    }
+    .mik8{
+        position: absolute;
+        top: 60px;
+        left: 75px;
+    
+    }
+    .mik9{
+        position: absolute;
+        top: 60px;
+        left: 120px;
+        
+    }
+    .mik3{
+        position: relative;
+        top: 180px;
+    }
+    .right2{
+        font-size: 60%;
+        position: relative;
+
+    }
+
+    .mike{
+        width: 70%;
+    }
+    .lexi{
+        width: 70%;
+
+
+    }
+    .hanna{
+        width: 70%;
+
+
+    }
+    .kevin{
+        width: 70%;
+
+
+    }
+    .mikk1{
+        width: 190px;
+    }
+
+
+    .mik6{
+        position: relative;
+        left: -190px;
+        top: 40px;
+    }
+    .mik3{
+        left: -40px;
+    }
+    .mik5{
+        top: 100px;
+        left: -180px;
+
+    }
+    .divvv1234{
+        position: relative;
+        left: -710px;
+        top: 30px;
+    }
+    .p2177{
+        width: 400px;
+        position: relative;
+        left: 760px;
+    }
+    .midlle12{
+        height: 1100px;
+    }
+
+    .midid1 img{
+        width: 200px;
+    }
+    .midid1{
+        width: 500px;
+        position: relative;
+        left: 50px;
+        top: 10px;
+    }
+
+    .midlle13{
+        background-size: cover;
+        display: block;
+    }
+
+
+    .right3{
+        position: relative;
+        top: 120px;
+
+    }
+    .mg555{
+        display: none;
+    }
+    .lift3{
+        position: relative;
+        top: 80px;
+        left: 20px;
+    }
+
+    .divvv12345{
+        position: relative;
+        left: -700px;
+    }
+
+    .p21777{
+        width: 500px;
+        position: relative;
+        left: 700px;
+    }
+
+    .midlle15{
+        height: 1000px;
+        display: block;
+
+    }
+
+    .eee1{
+        position: relative;
+        top: 30px;
+        left: 80px;
+    }
+    .ee3{
+        display: none;
+    }
+    .ee4{
+        display: none;
+    }
+    .ee5{
+        display: none;
+    }
+    .ee6{
+        display: none;
+    }
+    .ee7{
+        display: none;
+    }
+
+    .midlle16{
+        height: 1020px;
+        display: block;
+    }
+    .form{
+        position: relative;
+        top: 70px;
+        left: 5px;
+    }
+    .right8{
+        position: relative;
+        top: 150px;
+        left: 20px;
+    }
+    .hlh1{
+        justify-content: space-evenly;
+        position: relative;
+        left: -50px;
+        font-size: 95%;
+    }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+
+
+@media screen and (min-width: 768px) and (max-width:1023px)  {
+    .right1{
+        display: none;
+
+    }
+    .ico1{
+        left: -900px;
+    }
+    .mii1{
+        font-size: 80%;
+        
+
+    }
+    
+    .mg5{
+        width: 70%;
+
+    }
+    .mg6{
+        width: 70%;
+
+    }
+    .mgg1{
+        width: 80%;
+        font-size: 80%;
+    }
+    .mgg2{
+        width: 80%;
+        font-size: 80%;
+
+    }
+    .mgg3{
+        width: 80%;
+        font-size: 80%;
+
+    }
+    .mgg4{
+        width: 80%;
+        font-size: 80%;
+
+    }
+    .lll{
+        opacity: 20%;
+    }
+    .lo11{
+        width: 600px;
+    }
+
+
+    .midlle6{
+        width: auto;
+        
+    }
+    .pppic1{
+
+        left: 70px;
+        top: 150px;
+    }
+    .pk1{
+        width: 200px;
+
+    }
+    .pk2{
+        width: 200px;
+
+        
+    }
+    .pk3{
+        width: 200px;
+
+        
+    }
+    .hfh{
+        width: 200px;
+    }
+    .texx6{
+        width: 400px;
+    }
+    .peca1 img{
+        width: 140px;
+        left: 20px;
+        top: 90px;
+    }
+    .too7{
+        width: 500px;
+    }
+    .too6{
+        width: 300px;
+        top: 180px;
+    }
+    .too12{
+        width: 300px;
+        top:  420px;
+        left: 60px;
+
+
+    }
+    .too7{
+        top: 400px;
+        left: -220px;
+
+
+    }
+    .too8{
+        top: 270px;
+        left: 250px;
+
+    }
+    .too9{
+        top: 280px;
+        left: 250px;
+    }
+    .too10{
+        top: 80px;
+        left: 220px;
+        
+
+    }
+    .too11{
+        top: 112px;
+        left: 200px;
+        
+
+    }
+    
+    .midlle9{
+        background-size: cover;
+    }
+    .midlle10{
+        background-size: cover;
+    }
+
+    .divvv123{
+        left: -680px;
+        font-size: 70%;
+    }
+    .p217{
+        width: 400px;
+        
+    }
+    .p213{
+        position: relative;
+        left: 310px;
+    }
+
+
+    .lift2{
+        font-size: 70%;
+        position: relative;
+        left: 110px;
+    }
+    .right2{
+        font-size: 70%;
+        position: relative;
+
+    }
+
+    .mike{
+        width: 70%;
+    }
+    .lexi{
+        width: 70%;
+
+
+    }
+    .hanna{
+        width: 70%;
+
+
+    }
+    .kevin{
+        width: 70%;
+
+
+    }
+    .mikk1{
+        width: 190px;
+    }
+
+
+    .mik6{
+        position: relative;
+        left: -190px;
+        top: 40px;
+    }
+    .mik3{
+        left: -40px;
+    }
+    .mik5{
+        top: 100px;
+        left: -180px;
+
+    }
+    .divvv1234{
+        position: relative;
+        left: -570px;
+    }
+    .p2177{
+        width: 700px;
+        position: relative;
+        left: 610px;
+    }
+
+    .midid1 img{
+        width: 230px;
+    }
+    .midid1{
+        width: 700px;
+        position: relative;
+        left: 30px;
+        top: 100px;
+    }
+
+    .midlle13{
+        background-size: cover;
+        display: block;
+    }
+
+
+    .right3{
+        position: relative;
+        top: 120px;
+
+    }
+    .mg555{
+        display: none;
+    }
+    .lift3{
+        position: relative;
+        top: 80px;
+        left: 20px;
+    }
+
+    .divvv12345{
+        position: relative;
+        left: -590px;
+    }
+
+    .p21777{
+        width: 700px;
+        position: relative;
+        left: 610px;
+    }
+
+    .midlle15{
+        height: 1000px;
+        display: block;
+
+    }
+
+    .eee1{
+        position: relative;
+        top: 30px;
+        left: 190px;
+    }
+    .ee3{
+        display: none;
+    }
+    .ee4{
+        display: none;
+    }
+    .ee5{
+        display: none;
+    }
+    .ee6{
+        display: none;
+    }
+    .ee7{
+        display: none;
+    }
+
+    .midlle16{
+        height: 1020px;
+        display: block;
+    }
+    .form{
+        position: relative;
+        top: 70px;
+        left: 120px;
+    }
+    .right8{
+        position: relative;
+        top: 150px;
+        left: 20px;
+    }
+    
+
+   
+   
+
+    
+    
+}
+
+
+.mi8{
+    transition: all 1s ease;
+
+}
+.mi8:hover{
+    transform: scale(1.5);
+
+}
+.mg9{
+    transition: all 1s ease;
+
+}
+.mg9:hover{
+    transform: scale(1.1);
+
+
+}
+.mgg1{
+    transition: all 1s ease;
+
+
+}
+.mgg1:hover{
+    transform: scale(1.1);
+
+
+}
+.mgg1{
+    transition: all 1s ease;
+
+
+}
+.mgg1:hover{
+    transform: scale(1.2);
+
+
+}
+.mgg2{
+    transition: all 1s ease;
+
+
+}
+.mgg2:hover{
+    transform: scale(1.2);
+
+
+}
+.mgg3{
+    transition: all 1s ease;
+
+
+}
+.mgg3:hover{
+    transform: scale(1.2);
+
+
+}
+.mgg4{
+    transition: all 1s ease;
+
+
+}
+.mgg4:hover{
+    transform: scale(1.2);
+
+
+}
+.lll{
+    transition: all 1s ease;
+
+
+
+}
+.lll:hover{
+    transform: scale(1.1);
+    opacity: 80%;
+
+
+
+}
+
+.hfh{
+    transition: all 1s ease;
+
+
+}
+.hfh:hover{
+    transform: scale(0.9);
+    opacity: 50%;
+
+}
+.pk3{
+    transition: all 1s ease;
+
+
+}
+.pk3:hover{
+    transform: scale(0.9);
+    opacity: 50%;
+
+}
+
+.pk2{
+    transition: all 1s ease;
+
+
+}
+.pk2:hover{
+    transform: scale(0.9);
+    opacity: 50%;
+
+}
+
+.pk1{
+    transition: all 1s ease;
+
+
+}
+.pk1:hover{
+    transform: scale(0.9);
+    opacity: 50%;
+
+}
+.too12{
+    transition: all 1s ease;
+
+
+}
+.too12:hover{
+    transform: scale(0.9);
+    opacity: 50%;
+
+}
+.too6{
+    transition: all 1s ease;
+
+
+}
+.too6:hover{
+    transform: scale(0.9);
+    opacity: 50%;
+
+}
+
+.mikk1{
+    transition: all 1s ease;
+
+
+}
+.mikk1:hover{
+    transform: scale(1.2);
+    opacity: 50%;
+
+}
+
+
+.midid1 img{
+    transition: all 1s ease;
+
+
+}
+.midid1 img:hover{
+    transform: scale(0.9);
+    opacity: 50%;
+
+}
+
+
+.mg999{
+    transition: all 1s ease;
+
+
+}
+.mg999:hover{
+    transform: scale(1.2);
+
+}
+
+.right3{
+    transition: all 1s ease;
+
+
+}
+.right3:hover{
+    transform: scale(1.2);
+
+}
+
+
+.ee1{
+    transition: all 1s ease;
+
+
+}
+.ee1:hover{
+    transform: scale(1.1);
+
+}
+
+
+.lklk1{
+    transition: all 1s ease;
+
+
+}
+.lklk1:hover{
+    transform: scale(1.1);
+    opacity: 60%;
+
+
+}
+
+
+
